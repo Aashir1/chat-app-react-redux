@@ -1,0 +1,25 @@
+.messages-wrapper{
+    
+    width: 100%;
+    float: right;
+
+}
+.messages{
+    
+}
+.input-field{
+    margin-left: 10px;
+
+}
+
+.chip-span span{
+    color:#f1f0f1 !important;
+}
+
+.send-button button{
+    background-color: #407ffe !important
+}
+
+.btn button{
+    background-color: #407ffe !important
+}
