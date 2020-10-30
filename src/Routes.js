@@ -9,7 +9,7 @@ import Chat from './Container/embededChat';
 import Login from './Container/login/login';
 import SignUp from './Container/signup/signup';
 import Home from './Container/home';
-import createBrowserHistory from 'history/createBrowserHistory'
+// import createBrowserHistory from 'history/createBrowserHistory'
 // import { Route, Router, browserHistory } from 'react-router';
 import History from './History';
 
